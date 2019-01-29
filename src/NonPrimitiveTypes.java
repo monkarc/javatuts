@@ -5,8 +5,15 @@ public class NonPrimitiveTypes{
         //string is class (type of object that can hold text)
         String text = "Hello Strings";
 
+        String blank = " ";
+
+        String name = "Bob";
+
+        String greeting = text + blank + name;
+
+        System.out.println(greeting);
         System.out.println(text);
 
-        
+
     }
 }
