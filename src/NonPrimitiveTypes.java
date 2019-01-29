@@ -18,5 +18,9 @@ public class NonPrimitiveTypes{
         System.out.println("Hello" + " " + "bob");
 
         System.out.println("My Integer is: "+ myInt);
+
+        double myDouble = 7.5;
+
+        System.out.println("My Double is: "+ myDouble + ".");
     }
 }
