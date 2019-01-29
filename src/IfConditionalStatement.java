@@ -6,7 +6,7 @@ public class IfConditionalStatement {
         if (myInt < 10) {
             System.out.println("Yes, It's true!");
         }
-        else{
+        else if(myInt < 30){
             System.out.println("No, It's false");
         }
     }
