@@ -12,8 +12,9 @@ public class NonPrimitiveTypes{
         String greeting = text + blank + name;
 
         System.out.println(greeting);
+
         System.out.println(text);
 
-
+        System.out.println("Hello" + " " + "bob");
     }
 }
