@@ -16,5 +16,7 @@ public class NonPrimitiveTypes{
         System.out.println(text);
 
         System.out.println("Hello" + " " + "bob");
+
+        System.out.println("My Integer is: "+ myInt);
     }
 }
