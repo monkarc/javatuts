@@ -7,10 +7,10 @@ public class GetUserInput {
         Scanner input = new Scanner(System.in);
 
         // Output the prompt
-        System.out.println("Enter an integer: ");
+        System.out.println("Enter a floating point value: ");
 
-        // Wait for the user to enter a line of text.
-        int value = input.nextInt();
+        // Wait for the user to enter something.
+        double value = input.nextDouble();
 
         // Tell them what they entered
         System.out.println("You entered: " + value);
