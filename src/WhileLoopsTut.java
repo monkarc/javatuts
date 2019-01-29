@@ -1,6 +1,9 @@
 public class WhileLoopsTut {
     public static void main(String[] args){
-        boolean loop = 4 < 5;
+
+        int value = 10;
+
+        boolean loop = value > 20;
 
         System.out.println(loop);
 
