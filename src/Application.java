@@ -21,6 +21,6 @@ public class Application {
         System.out.println(myFloat);
         System.out.println(myChar);
         System.out.println(myBoolean);
-        System.out.println(myByte);
+        System.out.println(myByte );
     }
 }
